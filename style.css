@@ -57,3 +57,10 @@ li a{
    background-color: black;
 }
 
+
+/* Example of Direct Child  */
+b>i{
+   color: white;
+   background-color: black;
+}
+
