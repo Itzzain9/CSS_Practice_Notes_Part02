@@ -12,3 +12,9 @@ p{
    background-color: black;
 }
 
+/* Example of Class Selectors */
+.sel{
+   color: aqua;
+   background-color: black;
+}
+
