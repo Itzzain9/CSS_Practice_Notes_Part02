@@ -18,3 +18,18 @@ p{
    background-color: black;
 }
 
+
+/* if You want to just color only one element  */
+p.center{
+   color:red;
+   text-align: center;
+}
+
+/* Example of Universal Selectors */
+*{
+   border: 2px dotted white;
+   color: black;
+   background-color: red;
+   font-size: 20px;
+}
+
