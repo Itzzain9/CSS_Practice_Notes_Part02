@@ -6,5 +6,9 @@ p{
    background-color: yellow;
 }
 
-
+/* Example of Id Selector */
+#line-one{
+   color: yellow;
+   background-color: black;
+}
 
