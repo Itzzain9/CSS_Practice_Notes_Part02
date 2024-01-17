@@ -33,3 +33,20 @@ p.center{
    font-size: 20px;
 }
 
+
+/* Another Example for diff btw Body element and Universal selector */
+
+body{
+   border: 2px dotted white;
+   color: black;
+   background-color: red;
+   font-size: 20px;
+}
+
+/* Example of Group Selector */
+h1,h2,p{
+   text-align: center;
+   color: red;
+   background-color: beige;
+}
+
