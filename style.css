@@ -50,3 +50,10 @@ h1,h2,p{
    background-color: beige;
 }
 
+
+/* Example of Desendent Selector */
+li a{
+   color: white;
+   background-color: black;
+}
+
